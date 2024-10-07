@@ -1,0 +1,18 @@
+difficult:
+0
+bgmvolume:
+200
+soundeffectvolume:
+50
+speed:
+30 30
+rebirthtime:
+1
+keyset:
+65 83 68 70 75 76 186 222 81 79
+musicscore:
+2
+1 1
+40 0 0 test
+1 wrq
+0 0 0 wrq

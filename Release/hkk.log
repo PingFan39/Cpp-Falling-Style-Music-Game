@@ -1,0 +1,205 @@
+﻿  hkk.cpp
+d:\hkk\hkk\hkk.cpp(85): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+d:\hkk\hkk\hkk.cpp(200): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\hkk\hkk\hkk.cpp(238): error C2664: “BOOL SetConsoleTitleW(LPCWSTR)”: 无法将参数 1 从“const char [9]”转换为“LPCWSTR”
+  d:\hkk\hkk\hkk.cpp(238): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(277): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(281): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(282): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(284): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(289): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(290): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(292): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(294): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(298): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(299): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(301): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(303): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(307): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(308): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(310): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(315): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(316): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(318): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(323): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(324): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(326): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(331): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(332): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(334): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(336): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(340): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(341): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(343): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(345): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(349): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(350): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(352): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(354): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(358): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(359): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(361): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(364): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(368): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(369): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\hkk\hkk\hkk.cpp(371): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(280): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(288): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(297): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(306): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(314): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(322): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(330): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(339): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(348): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(357): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(367): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+d:\hkk\hkk\hkk.cpp(435): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(435): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(457): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(457): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(466): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(466): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(475): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(475): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(507): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(507): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(538): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\hkk\hkk\hkk.cpp(538): warning C4309: “初始化”: 截断常量值
+d:\hkk\hkk\hkk.cpp(611): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [14]”转换为“LPCWSTR”
+  d:\hkk\hkk\hkk.cpp(611): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(615): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [14]”转换为“LPCWSTR”
+  d:\hkk\hkk\hkk.cpp(615): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(619): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [27]”转换为“LPCWSTR”
+  d:\hkk\hkk\hkk.cpp(619): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(623): error C2664: “int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)”: 无法将参数 2 从“const char [27]”转换为“LPCWSTR”
+  d:\hkk\hkk\hkk.cpp(623): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(756): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(764): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(877): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(884): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(892): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(899): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(911): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(913): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(920): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(950): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(957): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(979): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(988): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(995): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1002): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1009): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1016): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1027): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1034): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1041): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1048): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1055): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1070): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1077): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1084): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1091): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1098): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1105): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1112): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1119): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1126): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1133): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1169): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1197): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1241): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1269): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1363): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1370): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1384): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1394): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1523): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1556): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1591): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1625): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1659): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1699): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1734): warning C4018: “<”: 有符号/无符号不匹配
+d:\hkk\hkk\hkk.cpp(1766): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(1769): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(1770): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(1778): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(1804): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(1824): warning C4838: 从“int”转换到“const char”需要收缩转换
+d:\hkk\hkk\hkk.cpp(1824): warning C4309: “初始化”: 截断常量值
+d:\hkk\hkk\hkk.cpp(1890): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+d:\hkk\hkk\hkk.cpp(1891): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(1974): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const _Elem *”转换为“LPCWSTR”
+          with
+          [
+              _Elem=char
+          ]
+  d:\hkk\hkk\hkk.cpp(1974): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(1975): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const _Elem *”转换为“LPCWSTR”
+          with
+          [
+              _Elem=char
+          ]
+  d:\hkk\hkk\hkk.cpp(1975): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\hkk\hkk\hkk.cpp(1990): warning C4267: “初始化”: 从“size_t”转换到“char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(1990): warning C4267: “初始化”: 从“size_t”转换到“const char”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(2130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\hkk\hkk\hkk.cpp(2178): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据

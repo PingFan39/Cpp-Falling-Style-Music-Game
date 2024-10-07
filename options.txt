@@ -1,0 +1,33 @@
+difficult:
+0
+bgmvolume:
+200
+soundeffectvolume:
+40
+speed:
+300 100
+rebirthtime:
+1.5
+keyset:
+68 70 74 75 75 76 186 222 90 88
+musicscore:
+8
+1 Vacuum Track#ADD8E6
+5317 40 0 alpha
+2 Nhelv
+2871 0 0 alpha
+0 0 0 beta
+3 Sterelogue
+0 0 0 easy
+0 0 0 normal
+0 0 0 extreme
+1 Idols
+0 0 0 alpha
+1 Magenta Potion
+0 0 0 alpha
+1 Exit This Earths Atomosphere
+0 0 0 alpha
+1 Gimme x Gimme
+0 0 0 alpha
+1 Magic Touch
+0 0 0 alpha

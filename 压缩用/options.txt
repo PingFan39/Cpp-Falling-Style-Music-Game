@@ -1,0 +1,25 @@
+difficult:
+0
+bgmvolume:
+200
+soundeffectvolume:
+50
+speed:
+200 200
+rebirthtime:
+0.1
+keyset:
+68 70 74 75 75 76 186 222 90 88
+musicscore:
+5
+2 1
+40 0 0 test
+0 0 0 test2
+1 wrq
+2434 0 0 wrq
+0 CENSORED!!
+1 Always
+0 0 0 test
+2 Baby Maniacs
+0 0 0 test
+0 0 0 long
